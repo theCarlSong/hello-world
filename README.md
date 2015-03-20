@@ -7,4 +7,9 @@ the tradition
 * b
 * c
 
+##test code
+'echo hello'
+
+##test link
+[wiki](wikipedia.org)
 
