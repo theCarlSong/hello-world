@@ -4,11 +4,11 @@ the tradition
 ##2nd level title
 
 * a
- + a1
-  - a1a
+  + a1
+    - a1a
 * b
  * b1
-  * b1b
+   * b1b
 * c
 
 ##test code
@@ -17,6 +17,8 @@ d=dict(a=2)
 ```
     d=dict(a=2)
     echo hello
+###inline code
+this is r code `read_table(foo,header=FALSE)`
 
 ##test link
 [wiki](http://wikipedia.org)
